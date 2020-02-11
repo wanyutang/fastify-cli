@@ -58,7 +58,7 @@
     "yargs-parser": "^16.0.0"
   },
   "devDependencies": {
-    "fastify-autoload": "^1.0.0",
+    "fastify-autoload": "1.2.0",
     "minimatch": "^3.0.4",
     "mkdirp": "^0.5.1",
     "pre-commit": "^1.2.2",
